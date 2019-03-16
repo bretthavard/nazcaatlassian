@@ -1,3 +1,3 @@
 cd /root 
-wget https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-7.13.1-x64.bin
-chmod +x atlassian-jira-software-7.13.1-x64.bin
+wget https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-6.14.2-x64.bin
+chmod +x atlassian-confluence-6.14.2-x64.bin

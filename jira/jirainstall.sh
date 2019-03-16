@@ -1,0 +1,1 @@
+./atlassian-jira-software-7.13.1-x64.bin
